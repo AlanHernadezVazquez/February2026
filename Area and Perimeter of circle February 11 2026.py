@@ -1,0 +1,6 @@
+radius = input('Enter radius of circle: ')
+radius = float(radius)
+area = (22.0 /7 * radius * radius)
+perimeter = (2 * 22 / 7 * radius)
+print ('Area:'+str(area))
+print ('Perimeter:'+str(perimeter))
